@@ -1,6 +1,8 @@
 # O desafio da forca
 
-Olá! Esse é o meu (Guilherme Paim Motta) repositório para o desafio do jogo da forca da Start DB 2022! Todos os arquivos, com exceção do forca.js, permanecem iguais a quando foram baixados. Todas as regras foram cumpridas, e as validações retornam sucesso em ambos os casos. Obrigado pela atenção!
+Olá! Esse é o meu (Guilherme Paim Motta) repositório para o desafio do jogo da forca da Start DB 2022! Todos os arquivos, com exceção do forca.js, permanecem iguais a quando foram baixados. Todas as regras foram cumpridas, e as validações retornam com sucesso em ambos os casos. 
+
+Obrigado pela atenção!
 
 # Como faço o desafio?
 
